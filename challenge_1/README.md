@@ -12,9 +12,8 @@ Goal:
 Solution:
 1) Create a SQL database in Azure at azure.microsoft.com
 
-2) Connect database to SSMS with JDBC connection string:
-```	jdbc:sqlserver://triseddonnguyen.database.windows.net:1433;database=challenge_1;user=triseddonnguyen@triseddonnguyen;password={7Tz(B,sUbJj;};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-```
+2) Connect database to SSMS with JDBC connection string:  
+`jdbc:sqlserver://triseddonnguyen.database.windows.net:1433;database=challenge_1;user=triseddonnguyen@triseddonnguyen;password={7Tz(B,sUbJj;};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;`
 
 3) Run Install.sql to create tables w/ data.
 
