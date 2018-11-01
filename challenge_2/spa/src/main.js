@@ -25,7 +25,7 @@ const router = new VueRouter({
 })
 //instatinat the vue instance
 new Vue({
-//define the selector for the root component
+	//define the selector for the root component
   el: '#app',
   //pass the template to the root component
   template: '<App/>',
