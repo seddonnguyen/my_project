@@ -1,4 +1,4 @@
-A single page application (SPA) that get current time in Epoch time.
+A single page application (SPA) that get the current time in Epoch time.
 
 To get started the SPA:
 1) cd spa
