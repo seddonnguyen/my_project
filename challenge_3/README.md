@@ -22,9 +22,9 @@ The code is written in Go.
 Evaluation:
 
 1. & operator create a pointer of the operand which contains the memory address of a value.
-  * &i == &i Comparing the same memory address.
-  * &i == &j i and j has different memory address.
-  * &j == nill j has a memory address with a default value of 0.
+  * &i == &i is true. The expression is comparing the same memory address.
+  * &i == &j is false. i and j has different memory address.
+  * &j == nill is false. j has a default value of 0 and store at a memory address.
 2. Within each const block, iota starts at 0 and increments by one after initializing a const.
 3. Println writes to standard output with a newline is appended.
 
