@@ -1,4 +1,4 @@
-Determine the average daily sales for each seller.
+Determine the average daily apple sold for each seller.
 
 Observations:
 1. Id from both tables is unique and incremented by 1.
