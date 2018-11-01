@@ -7,7 +7,7 @@ Observations:
 Goal:
 1. Store data in a relational database.
 2. Query for each seller's average daily amount of apples sold.
-3. Unit Testing
+3. Unit Testing <-- To Do
 
 To get started:
 1. Create a SQL database in Azure at azure.microsoft.com
