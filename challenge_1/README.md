@@ -12,7 +12,8 @@ Goal:
 Solution:
 1) Create a SQL database in Azure at azure.microsoft.com
 
-2) Connect database to SSMS using the following jdbc connection string:
+2) Connect database to SSMS with JDBC connection string:
+
 	jdbc:sqlserver://triseddonnguyen.database.windows.net:1433;database=challenge_1;user=triseddonnguyen@triseddonnguyen;password={7Tz(B,sUbJj;};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
 
 3) Run Install.sql to create tables w/ data.
@@ -21,4 +22,4 @@ Solution:
 4) Run Solution.sql to find each seller's average daily amount of apples sold.
 
 
-5) Unit Testing with tSQLt. Download material at https://tsqlt.org
+5) Unit Testing with tSQLt. Download materials at https://tsqlt.org
